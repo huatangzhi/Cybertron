@@ -59,6 +59,7 @@ PRETRAINED_POSITIONAL_EMBEDDINGS_SIZES = {
     'bert-large-cased-whole-word-masking-finetuned-squad': 512,
     'bert-base-cased-finetuned-mrpc': 512,
     'sentence-transformers/all-MiniLM-L6-v2': 512,
+    'sentence-transformers/all-mpnet-base-v2': 512
 }
 
 PRETRAINED_INIT_CONFIGURATION = {
